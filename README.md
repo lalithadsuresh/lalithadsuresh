@@ -1,9 +1,6 @@
 
 <img width="1243" alt="Screenshot 2024-08-23 at 4 45 24 PM" src="https://github.com/user-attachments/assets/4461196c-20d3-4863-810f-58f19b74cdf8">
 
-
-[![My Personal Website](https://lalithadsuresh.github.io/LalithsPersonalWebsite/logo.jpeg)](https://lalithadsuresh.github.io/LalithsPersonalWebsite/)
-
 - 🔭 I’m currently working on **BuddyMap**
 
 - 🌱 I’m currently learning **React and Node.js!**

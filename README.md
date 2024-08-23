@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalith Suresh</h1>
 <h3 align="center">A front-end developer, product designer, and artist!</h3>
 
-[![My Personal Website](https://lalithadsuresh.github.io/LalithsPersonalWebsite/header-image.jpg)](https://lalithadsuresh.github.io/LalithsPersonalWebsite/)
+[![My Personal Website](https://lalithadsuresh.github.io/LalithsPersonalWebsite/logo.jpeg)](https://lalithadsuresh.github.io/LalithsPersonalWebsite/)
 
 - 🔭 I’m currently working on **BuddyMap**
 

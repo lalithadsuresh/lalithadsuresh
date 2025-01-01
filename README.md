@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AlbumWallGenerator**
 
-- 🌱 I’m currently learning **React and Node.js!**
+- 🌱 I’m currently learning the **MERN Stack!**
 
 - 👨‍💻 All of my projects are available at [https://lalithadsuresh.github.io/LalithsPersonalWebsite/](https://lalithadsuresh.github.io/LalithsPersonalWebsite/)
 
